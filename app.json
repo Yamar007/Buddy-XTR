@@ -1,7 +1,7 @@
 {
   "name": "CARL TECH",
-  "description": "Buddy-XTR by carl william.",
-  "logo": "https://files.catbox.moe/waszph.jpg",
+  "description": "YusufDroid by swap.",
+  "logo": "",
   "keywords": ["CARL-TECH", "whatsapp-bot", "whatsapp-md-bot"],
   "repository": "https://github.com/carl24tech/Cyberion-Spark-X",
   "stack": "container",
@@ -9,27 +9,27 @@
     "SESSION_ID": {
       "description": "Ensure your session Id starts with Buddy;;;",
       "required": true,
-      "value": ""
+      "value": "Buddy;;;hMAGmLiZ#wac3o68BeuuyTRL2W665K-ARpimqsTKRJDnNv7kwwi8"
     },
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "Your Bot Prefix (default: .)",
       "required": false,
-      "value": "."
+      "value": "!"
     },
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": false,
-      "value": "𝖂𝖎𝖑𝖑𝖎𝖆𝖒"
+      "value": "YusufDroid"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": ""
+      "value": "237672114754"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
@@ -64,7 +64,7 @@
     "AUTO_STATUS_SEEN": {
       "description": "Enable bot to view statuses (true/false)",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_STATUS_REPLY": {
       "description": "Enable bot to reply after viewing a status (true/false)",
@@ -74,7 +74,7 @@
     "STATUS_READ_MSG": {
       "description": "Set the message bot sends after viewing a status",
       "required": false,
-      "value": "*Status Seen*"
+      "value": ""
     },
     "AUTO_BLOCK": {
       "description": "Enable bot to auto-block specific numbers (true/false)",
